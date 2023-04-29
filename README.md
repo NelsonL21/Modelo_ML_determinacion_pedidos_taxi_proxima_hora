@@ -21,6 +21,8 @@ Se observa un claro aumento en la pendiente de la recta que describe el número 
 
 **Figura 1:** gráficas del comportamiento de la serie temporal en el tiempo, desglozada en tendencia, estaconalidad y residuales.
 
+Se evidencia que es una serie de tiempo estocástica no estacionaria, ya que el valor medio cambia con el tiempo.
+
 Así mismo, se evidencia presencia de picos en agosto, en los días 13, 20 y 27, claramente diferencaidos del resto, se recomienda estudiar que sucedió dichos días, para detemrinar futuras oportunidades de negocio, y potencias capañas de marketing dichos días.
 
 Se evidencia una clara y marcada tendencia a la alza a lo largo de todo el periodo de estudio, indicando que todo va en excelente camino.
